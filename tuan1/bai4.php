@@ -17,15 +17,13 @@
         <p>Tổng các phần tử trong mảng là: 27</p>
         <p>Mảng sau khi sắp xếp theo chiều tăng dần:</p>
         <div class="result">
-            Array
-            (
-                [0] => 1
-                [1] => 2
-                [2] => 3
-                [3] => 5
-                [4] => 7
-                [5] => 9
-            )
+                1
+                2
+                3
+                5
+                7
+                9
+            
         </div>
         <p>7 có trong mảng</p>
     </div>
